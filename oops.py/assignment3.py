@@ -1,0 +1,1 @@
+'''wrie a python program to create a rectangular class,length and bredth initilize using constructor and acesses the values using mutator method'''

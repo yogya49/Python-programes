@@ -1,0 +1,1 @@
+#write a python program to read two integer values as input from the user and 
